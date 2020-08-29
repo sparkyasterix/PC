@@ -1,0 +1,2 @@
+# PC
+Coonecting to python
